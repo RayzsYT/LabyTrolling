@@ -1,0 +1,14 @@
+name: LabyModBan
+version: 1.0
+author: Rayzs_YT
+main: de.rayzs.labyban.plugin.LabyBan
+
+commands:
+  lb:
+    aliases:
+      - labykick
+    permission: labykick.use
+  bs:
+    aliases:
+      - blackscreen
+    permission: blackscreen.use
